@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liz
-===========================================================================================================================
+Hi 👋 My name is Liz
+====================
 
 Neuroscience & AI Research Engineer
 -----------------------------------
 
-I'm a Neuroscience and AI Research Engineer combining my robotics and AI expertise with neuroscience at the Paris Brain Institute 🧠💻 🔍💡 My current focus: leveraging data-driven approaches to advance our understanding of pathologies linked to abnormal repetitive behaviors (OCD, Tourette Syndrome ..)
+I'm a Neuroscience and AI Research Engineer combining my robotics and AI expertise with neuroscience at the Paris Brain Institute 🧠💻 🔍💡 My current focus: leveraging data-driven approaches to advance our understanding of pathologies linked to abnormal repetitive behaviors (OCD, Tourette Syndrome, ...)
 
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [Publication track](http://scholar.google.com/citations?user=GnCRfW4AAAAJ&hl=fr)
 * 🚀  I'm currently working on [Movidoc](http://github.com/Movidoc)
-* ⚡  I'm passionate about digital illustration 🎨 and I am a wearable tech enthusiast! ⌚📱🌐
+* ⚡  I'm passionate about digital illustration 🎨
+* ⌚  I'm a wearable tech enthusiast! 📱🌐
 
 <a href="https://www.x.com/LizbethMG19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LizbethMG19?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -27,4 +28,3 @@ src="https://img.shields.io/twitter/follow/LizbethMG19?logo=twitter&style=for-th
 
 <p align="left"> <a href="https://www.github.com/LizbethMG19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/slmondragon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/LizbethMG19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
