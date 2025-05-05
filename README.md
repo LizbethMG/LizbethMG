@@ -8,7 +8,7 @@ I'm a Neuroscience and AI Research Engineer combining my robotics and AI experti
 
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [Publication track](http://scholar.google.com/citations?user=GnCRfW4AAAAJ&hl=fr)
-* 🚀  I'm currently working on [Movidoc](http://github.com/Movidoc)
+* 🚀  I'm currently working on [Movidoc](https://movidoc-project.org/)
 * ⚡  I'm passionate about digital illustration 🎨
 * ⌚  I'm a wearable tech enthusiast! 📱🌐
 
